@@ -6,7 +6,7 @@ from gtts import gTTS
 from playsound import playsound
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
 # Set up speech recognition
 r = sr.Recognizer()
