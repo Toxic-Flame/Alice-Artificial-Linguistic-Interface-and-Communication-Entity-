@@ -32,3 +32,5 @@ This version is similar to Version 5, but is designed to run in a command line i
 
 Acknowledgments
 This program was inspired by various personal assistant projects on GitHub and elsewhere. Special thanks to the developers of the OpenAI API, the Google Text-to-Speech API, and the Python packages used in this project.
+
+Please Note I will not be devloping this project further feel free to upload your own versions
