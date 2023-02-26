@@ -1,3 +1,5 @@
+To run the AI you will need to move the disired verion from the versions folder and then put it into the main folder directory
+
 Installing Python on Windows:
 
 Go to the Python official website at https://www.python.org/downloads/ and download the latest version of Python for Windows.
